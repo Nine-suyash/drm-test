@@ -1,3 +1,5 @@
-[
-  "say Hey this is test"
-]
+{
+  "enabled": true,
+  "number": "2380319",
+  "command": "e dance"
+}
