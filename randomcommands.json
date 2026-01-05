@@ -1,3 +1,5 @@
-[
-  "say Hey this is test"
-]
+{
+  "enabled": true,
+  "number": "9260532",
+  "command": "me I have been hacked"
+}
